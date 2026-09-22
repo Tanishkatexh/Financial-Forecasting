@@ -162,8 +162,4 @@ Financial-Forecasting/
 │
 ├── Documentation/
 │   ├── DAX_Measures.md
-│   └── Data_Dictionary.xlsx
-│
-└── Screenshots/
-    ├── 01_Financial_Overview.png
-    └── 02_Financial_Forecasting.png
+│   
