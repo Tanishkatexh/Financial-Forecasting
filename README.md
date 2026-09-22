@@ -50,18 +50,6 @@ Interactive Dashboard
 
 ---
 
-## Dashboard
-
-### Financial Overview
-
-![Financial Overview](Screenshots/01_Financial_Overview.png)
-
-### Financial Forecasting
-
-![Financial Forecasting](Screenshots/02_Financial_Forecasting.png)
-
----
-
 ## SQL Analysis
 
 The SQL analysis includes:
